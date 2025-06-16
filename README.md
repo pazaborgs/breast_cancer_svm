@@ -35,8 +35,8 @@ O conjunto de dados utilizado é o **Breast Cancer Wisconsin Diagnostic Dataset*
 Clone o repositório ou baixe o notebook abaixo:
 
    ```bash
-   git clone https://github.com/pazaborgs/{{link_repo}}
-   cd {{link_repo}}
+   git clone https://github.com/pazaborgs/breast_cancer_svm
+   cd breast_cancer_svm
    ```
    
 Instale as dependências:
